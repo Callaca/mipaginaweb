@@ -12,5 +12,6 @@ Por ejemplo un codigo seria:
   </HEAD>
   <BODY>
   </BODY>
+  </HTML>
   
 
