@@ -12,6 +12,9 @@ Por ejemplo un codigo seria:
   </HEAD>
   <BODY>
   </BODY>
-  </HTML>
+</HTML>
   
-
+## CSS
+Las hojas de estilo **CSS** nos permiten personalizar el aspecto de nuestras paginas web
+Por ejemplo
+body
